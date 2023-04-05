@@ -3,9 +3,9 @@
 	<remote name="FgnorDev" fetch="https://github.com/FgnorDev" />
 
  <!-- Trees -->
- <project path="device/realme/rmx3371" name="FgnorDev/android_device_realme_rmx3371" remote="FgnorDev" revision="lineage-20" />
- <project path="vendor/realme" name="FgnorDev/android_device_realme_rmx3371" remote="FgnorDev" revision="lineage-20" />
- <project path="kernel/realme/sm8250" name="FgnorDev/android_kernel_realme_sm8250" remote="FgnorDev" revision="lineage-20" />
- <project path="hardware/oplus" name="FgnorDev/android_hardware_oplus" remote="FgnorDev" revision="lineage-20" />
+ <project path="device/realme/rmx3371" name="android_device_realme_rmx3371" remote="FgnorDev" revision="lineage-20" />
+ <project path="vendor/realme" name="proprietary_vendor_realme_rmx3371" remote="FgnorDev" revision="lineage-20" />
+ <project path="kernel/realme/sm8250" name="Realme_kernel_sm8250" remote="FgnorDev" revision="stable" />
+ <project path="hardware/oplus" name="android_hardware_oplus" remote="FgnorDev" revision="lineage-20" />
  
 </manifest>
