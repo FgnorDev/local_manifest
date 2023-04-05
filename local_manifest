@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <remote name="yogi" fetch="https://github.com/yograjfire18" />
+	<remote name="FgnorDev" fetch="https://github.com/FgnorDev" />
 
  <!-- Trees -->
- <project path="device/10or/G" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
- <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/10or" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
- <project path="kernel/10or/G" name="10orDevs/android_kernel_10or_G-4.9.git" remote="github" revision="lineage-18.1" />
+ <project path="device/realme/rmx3371" name="FgnorDev/android_device_realme_rmx3371" remote="FgnorDev" revision="lineage-20" />
+ <project path="vendor/realme" name="FgnorDev/android_device_realme_rmx3371" remote="FgnorDev" revision="lineage-20" />
+ <project path="kernel/realme/sm8250" name="FgnorDev/android_kernel_realme_sm8250" remote="FgnorDev" revision="lineage-20" />
+ <project path="hardware/oplus" name="FgnorDev/android_hardware_oplus" remote="FgnorDev" revision="lineage-20" />
  
 </manifest>
