@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+ <remote name="yogi" fetch="https://github.com/yograjfire18" />
 
  <!-- Trees -->
  <project path="device/10or/G" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
